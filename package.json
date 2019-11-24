@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "nuxt": "^2.0.0",
-    "@hoods/hood-card-base-component": "../vue-base-component"
+    "@hoods/hood-card-base-component": "git+https://github.com/chooseyourfuture/hood-card-base-component.git"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",

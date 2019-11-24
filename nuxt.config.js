@@ -73,6 +73,6 @@ export default {
      */
     extend(config, ctx) {},
 
-    transpile: ['@hoods/hood-card-base-component']
+    transpile: ['@hoods/hood-card-base-component', 'vue-responsive-components']
   }
 }
